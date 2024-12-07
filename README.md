@@ -25,7 +25,7 @@
 
     #include<stdio.h>
 
-    int man(){
+    int main(){
         printf("Hello Word!!!");
         return 0;
     }

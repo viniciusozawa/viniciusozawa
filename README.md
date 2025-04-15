@@ -21,7 +21,7 @@
 </div><br><br>
 <codes>
 
-    //Language C
+    //Language c
 
     #include<stdio.h>
 
@@ -29,6 +29,29 @@
         printf("Hello Word!!!");
         return 0;
     }
+
+    //Language Java 
+    package helloWord 
+
+    public class HelloWord(){
+        private String iniciandoMundo;
+        
+        public void escrevendo(){
+            iniciandoMundo = "Hello Word";
+            System.out.println("--"+iniciandoMundo+"--");
+        }
+    }
+    
+    package helloWord 
+    
+    public class Mensagem(){
+        public static void main(String[] agrs){
+            HelloWord msg = HelloWord();
+            msg.escrevendo();
+        }
+    }
+
+    
 </code><br>
 
 <i>Sou um apenas um garoto apaixonado pela tecnologias e querendo sempre ajudar as pessoas!!!</i>

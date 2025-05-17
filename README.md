@@ -27,5 +27,3 @@
 ---
 
 ---
-
-Se quiser, posso montar um exemplo com HTML completo e te ajudar a publicar via GitHub Pages. Deseja isso?

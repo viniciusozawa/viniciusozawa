@@ -1,7 +1,27 @@
+<style>
+    .tecnologia{
+        padding: 10px;
+        height: auto;
+        width: auto;
+        background: #000000;
+        background: linear-gradient(176deg, rgba(0, 0, 0, 1) 0%, rgba(29, 48, 36, 1) 50%, rgba(130, 118, 40, 1) 100%);
+        a
+    }
+    .tecnologia img{
+        padding: 20px;
+        height: 120px;
+         transition: 1.2s;
+    }
+    .tecnologia img:hover{
+        transform: scale(1.2);
+    }
+
+</style>
+
 
 ---
 
-### Olá!  Eu me chamo Vinicius(japa) ✌️😌
+# Olá!  Eu me chamo Vinicius(japa) ✌️😌
 ---
 <br>
 
@@ -11,14 +31,25 @@
 
 ![ Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusozawa&show_icons=true&theme=merko)
 
-### Tecnologias:
-<div style="display: inline-block"><br>
-    <img alt="c" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
-    <img alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+## Skills:
+<div class = "tecnologia" style="display: inline-block;"><br>
+    <img alt="html5" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
+    <img alt="c" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg">
+    <img alt="c++" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg">
+    <img alt="python" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg">
+    <img alt="Java" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg">
+    <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg">
+    <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg">
 </div><br><br>
+
+
+### IDEs:
+<div class= "tecnologia"><br>
+    <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg">
+</div><br><br>
+
 <codes>
 
     //Language c

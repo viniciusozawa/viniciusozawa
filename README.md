@@ -1,16 +1,10 @@
 <style>
     .tecnologia{
-        padding: 10px;
-        height: auto;
-        width: auto;
-        background: #000000;
-        background: linear-gradient(176deg, rgba(0, 0, 0, 1) 0%, rgba(29, 48, 36, 1) 50%, rgba(130, 118, 40, 1) 100%);
+       
         a
     }
     .tecnologia img{
-        padding: 20px;
-        height: 120px;
-         transition: 1.2s;
+       
     }
     .tecnologia img:hover{
         transform: scale(1.2);
@@ -32,7 +26,14 @@
 ![ Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusozawa&show_icons=true&theme=merko)
 
 ## Skills:
-<div class = "tecnologia" style="display: inline-block;"><br>
+<div class = "tecnologia" style="display: inline-block  padding: 10px;
+        height: auto;
+        width: auto;
+        background: #000000;
+        background: linear-gradient(176deg, rgba(0, 0, 0, 1) 0%, rgba(29, 48, 36, 1) 50%, rgba(130, 118, 40, 1) 100%);
+        padding: 20px;
+        height: 120px;
+        transition: 1.2s;"><br>
     <img alt="html5" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
     <img alt="c" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg">
@@ -45,7 +46,14 @@
 
 
 ### IDEs:
-<div class= "tecnologia"><br>
+<div class= "tecnologia" style="display: inline-block  padding: 10px;
+        height: auto;
+        width: auto;
+        background: #000000;
+        background: linear-gradient(176deg, rgba(0, 0, 0, 1) 0%, rgba(29, 48, 36, 1) 50%, rgba(130, 118, 40, 1) 100%);
+        padding: 20px;
+        height: 120px;
+        transition: 1.2s;"><br>
     <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg">
 </div><br><br>

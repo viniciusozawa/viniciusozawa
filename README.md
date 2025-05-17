@@ -26,40 +26,6 @@
 
 ---
 
-<codes>
-
-    //Language c
-
-    #include<stdio.h>
-
-    int main(){
-        printf("Hello Word!!!");
-        return 0;
-    }
-
-    //Language Java 
-    package helloWord 
-
-    public class HelloWord(){
-        private String iniciandoMundo;
-        
-        public void escrevendo(){
-            iniciandoMundo = "Hello Word";
-            System.out.println("--"+iniciandoMundo+"--");
-        }
-    }
-    
-    package helloWord 
-    
-    public class Mensagem(){
-        public static void main(String[] agrs){
-            HelloWord msg = HelloWord();
-            msg.escrevendo();
-        }
-    }
-
-    
-</code><br>
 ---
 
 Se quiser, posso montar um exemplo com HTML completo e te ajudar a publicar via GitHub Pages. Deseja isso?

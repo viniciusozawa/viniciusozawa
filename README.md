@@ -22,15 +22,6 @@
 
 ---
 
-## 🏆 GitHub Troféus
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=viniciusozawa)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -46,7 +37,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,python,java,spring,mysql&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,python,java,spring,mysql,angular,docker,vite,react,git,dart,flutter&perline=8)](https://skillicons.dev)
 
 </div>
 
@@ -56,7 +47,7 @@
 
 <div align="center">
 
-[![My Tools](https://skillicons.dev/icons?i=idea,vscode,visualstudio,postman,git,notion&perline=6)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=idea,vscode,visualstudio,postman,notion,aws,kali,postgres,pug,github,jenkins,npm&perline=6)](https://skillicons.dev)
 
 </div>
 

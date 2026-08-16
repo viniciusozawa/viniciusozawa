@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Eu sou o Vinicius 👋 (japa)
+# Olá! Eu sou o Vinicius
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Desenvolvedor+Backend;Estudante+de+TI;Apaixonado+por+tecnologia+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -23,15 +23,6 @@
 ---
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniciusozawa&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IagoDSN&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
-
----
 
 ##  Skills
 
@@ -52,15 +43,6 @@
 </div>
 
 ---
-
-##  Atividade
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciusozawa&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 <div align="center">
 
 *"Você deve olhar para os fatos porque eles olham para você. Winston Churchil"*
